@@ -1,2 +1,6 @@
 # clone
 pull
+push
+pull
+
+
